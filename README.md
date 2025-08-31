@@ -1,7 +1,7 @@
 # 100-Python-Projects
 100 projects in Python focused on cybersecurity. 
 
----
+
 
 ## Feel free to contact me through the following profiles:
 
