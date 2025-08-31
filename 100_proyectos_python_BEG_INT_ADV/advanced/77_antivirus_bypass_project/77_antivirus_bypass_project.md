@@ -10,7 +10,6 @@
 
 
 
-# antivirus_bypass_tool.md
 
 # 77: Antivirus Bypass Tool with Obfuscation Techniques
 
