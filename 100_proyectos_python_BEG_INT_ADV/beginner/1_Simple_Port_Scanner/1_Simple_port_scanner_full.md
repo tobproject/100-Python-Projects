@@ -12,7 +12,7 @@
 
 
 
-# 1: Basic Port Scanner in Python
+# 1: Simple Port Scanner in Python
 
 ## Description
 This project consists of developing a simple Python script to perform a port scan on a host or network. The goal is to check whether the common ports of a system are open and therefore determine if there are vulnerable services accessible from the network.
