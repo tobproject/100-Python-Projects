@@ -57,8 +57,7 @@ No additional libraries are required beyond Python’s standard library.
 ---
 
 ## ▶️ Usage
-1. Clone the repository:
-   ```bash
+
 1. Clone the repository:
    ```bash
      git clone https://github.com/tobproject/100-Python-Projects/tree/main/100_proyectos_python_BEG_INT_ADV/beginner/2_Random_Password_Generator
@@ -95,6 +94,7 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 
 ---
+
 
 
 
