@@ -1,0 +1,8 @@
+# This project only uses Python's standard library.
+# No external dependencies are required.
+
+# Libraries used:
+# - socket
+# - time
+# - smtplib
+# - email.mime.text
