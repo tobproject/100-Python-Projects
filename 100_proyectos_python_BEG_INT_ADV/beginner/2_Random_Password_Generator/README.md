@@ -59,8 +59,10 @@ No additional libraries are required beyond Python’s standard library.
 ## ▶️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-password-generator.git
-   cd random-password-generator
+1. Clone the repository:
+   ```bash
+     git clone https://github.com/tobproject/100-Python-Projects/tree/main/100_proyectos_python_BEG_INT_ADV/beginner/2_Random_Password_Generator
+     cd random-password-generator
 
 
 2. Run the script:
@@ -93,5 +95,6 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 
 ---
+
 
 
