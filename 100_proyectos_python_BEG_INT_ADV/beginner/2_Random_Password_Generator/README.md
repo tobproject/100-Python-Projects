@@ -39,8 +39,11 @@ A simple and secure **Python-based password generator** that allows users to cre
 ## 📂 Project Structure
 .
 ├── password_generator.py # Main script
+
 ├── README.md # Project documentation (this file)
+
 ├── requirements.txt # List of dependencies
+
 └── .gitignore # Git ignore file
 
 
@@ -90,4 +93,5 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 
 ---
+
 
