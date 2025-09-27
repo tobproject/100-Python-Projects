@@ -8,3 +8,9 @@
  ## [Linkedin](https://www.linkedin.com/in/andrespds/) | [GitHub](https://github.com/tobproject) | [Instagram](https://www.instagram.com/tob_project/)
 
 
+---
+Avaliable until 27/09/2025:
+
+- 1. Simple Port Scanner
+- 2. Random Password Generator
+- 3. Open Ports Monitor
