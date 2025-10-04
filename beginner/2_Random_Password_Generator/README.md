@@ -1,100 +1,114 @@
-
 ## Feel free to contact me through the following profiles:
 
- ## [Linkedin](https://www.linkedin.com/in/andrespds/) | [GitHub](https://github.com/tobproject) | [Instagram](https://www.instagram.com/tob_project/)
-
-
----
-# 🔑 Random Password Generator
-
-A simple and secure **Python-based password generator** that allows users to create strong, random passwords with customizable options such as length and character types.
+## [Linkedin](https://www.linkedin.com/in/andrespds/) | [GitHub](https://github.com/tobproject) | [Instagram](https://www.instagram.com/tob_project/)
 
 ---
 
-## 📌 Features
-- Generate **cryptographically secure passwords**  
-- Choose whether to include:  
-  ✅ Uppercase letters  
-  ✅ Lowercase letters  
-  ✅ Digits  
-  ✅ Special characters  
-- Enforces a **minimum length of 8 characters** for better security  
-- Simple and interactive **command-line interface**  
+# Secure Random Password Generator with GUI (PyQt5 / CustomTkinter)
+
+This project consists of a secure **random password generator** with a graphical interface in **two versions**:
+
+- **PyQT_random_password_generator.py** → version with PyQt5
+- **CTK_random_password_generator.py** → version with CustomTkinter
 
 ---
 
-## 📂 Project Structure
+## 📌 Current Version: **v0.1 (Beta)**
 
-# 🔑 Random Password Generator
-
-A simple and secure **Python-based password generator** that allows users to create strong, random passwords with customizable options such as length and character types.
-
----
-
-## 📌 Features
-- Generate **cryptographically secure passwords**  
-- Choose whether to include:  
-  ✅ Uppercase letters  
-  ✅ Lowercase letters  
-  ✅ Digits  
-  ✅ Special characters  
-- Enforces a **minimum length of 8 characters** for better security  
-- Simple and interactive **command-line interface**  
+Implemented Features:
+- ✅ Generate secure passwords with configurable length (8–128 characters).
+- ✅ Generate multiple passwords at once (1–500 passwords).
+- ✅ Options to include/exclude uppercase, lowercase, digits, and special characters.
+- ✅ Copy latest or all generated passwords to clipboard.
+- ✅ Save generated passwords to a `.txt` file.
+- ✅ Separate tabs: **Generator**, **Status**, and **About Developer**.
+- ✅ Custom icon (`tobproject.ico`).
 
 ---
 
-## 📂 Project Structure
-.
-├── password_generator.py # Main script
-├── README.md # Project documentation (this file)
-├── requirements.txt # List of dependencies
-└── .gitignore # Git ignore file
+## 📷 Screenshots
 
+### PyQt version
+<div align="center">
+
+| PyQt — Generator | PyQt — Status & About |
+|---:|:---|
+| <img src="assets/screenshots/PyQt_pwgen_1.png" alt="PyQt Generator" width="420"/> | <img src="assets/screenshots/PyQt_pwgen_2.png" alt="PyQt Status & About" width="420"/> |
+| *Figure 1 — PyQt: Generator UI* | *Figure 2 — PyQt: Status log & About tabs* |
+
+</div>
+
+### CustomTkinter version
+<div align="center">
+
+| CTK — Generator tab | CTK — Status & About |
+|---:|:---|
+| <img src="assets/screenshots/CTK_pwgen_1.png" alt="CTK Generator" width="420"/> | <img src="assets/screenshots/CTK_pwgen_2.png" alt="CTK Status & About" width="420"/> |
+| *Figure 3 — CTK: main generator UI.* | *Figure 4 — CTK: Status log & About tabs (link buttons).* |
+
+</div>
+
+---
+
+## 📌 Visual Roadmap
+
+| Feature | Status | Expected release |
+|----------------------------------------|----------|------------------|
+| Generate passwords | ✅ Done | v0.1 |
+| Multiple password generation | ✅ Done | v0.1 |
+| Copy to clipboard | ✅ Done | v0.1 |
+| Save passwords to TXT | ✅ Done | v0.1 |
+| Configurable character sets | ✅ Done | v0.1 |
+| Custom icon in GUI | ✅ Done | v0.1 |
+| Status log tab | ✅ Done | v0.1 |
+| Password strength indicator | 🚧 Pending | v0.2 |
+| Visual optimization for large outputs | 🚧 Pending | v0.2 |
+| Code fixes and optimizations | 🚧 Pending | v0.2 |
 
 ---
 
-## ⚙️ Requirements
-- **Python 3.6+**
+## 🔧 Requirements
 
-No additional libraries are required beyond Python’s standard library.
+- Python 3.8+
+- Python Libraries:
+  - `PyQt5` (for the PyQt version)
+  - `customtkinter` (for the CTK version)
+  - `secrets`, `string` (standard library)
+  - `datetime` (standard library)
+  - `webbrowser` (standard library)
+
+Dependency Installation (example):
+```bash
+pip install pyqt5 customtkinter
+```
+
+---
+
+## 📌 Usage
+
+1. Run the desired GUI version:
+```bash
+python PyQT_random_password_generator.py
+```
+or
+```bash
+python CTK_random_password_generator.py
+```
+
+2. Configure:
+   - Password length
+   - Quantity of passwords
+   - Character options (Uppercase, Lowercase, Digits, Special)
+
+3. Click **Generate** to see results, **Generate & Save** to save to a file, or use **Copy** / **Copy All** buttons.
+
+4. Check **Status** tab for timestamped generation log and **About Developer** for contact info.
 
 ---
 
-## ▶️ Usage
-1. Clone the repository:
-   ```bash
-   git clone hhttps://github.com/tobproject/100-Python-Projects/tree/main/100_proyectos_python_BEG_INT_ADV/beginner/2_Random_Password_Generator
-   cd random-password-generator
+## 🔗 Contact
 
-
-2. Run the script:
-
-   ```bash
-   python password_generator.py
-   
-3. Follow the prompts:
-
-   ```bash
-   Welcome to the Secure Password Generator
-   Enter the desired password length (minimum 8): 12
-   Include uppercase letters? (y/n): y
-   Include lowercase letters? (y/n): y
-   Include digits? (y/n): y
-   Include special characters? (y/n): n
-   Generated password: Gh2kLm9QwErt
-
-## 💡 Future Improvements
-
-Store generated passwords in an encrypted file
-
-Add a password strength evaluator
-
-Support command-line arguments with argparse
-
-## 📝 License
-
-This project is licensed under the MIT License – feel free to use, modify, and share.
-
-
----
+- LinkedIn: [https://www.linkedin.com/in/andrespds/](https://www.linkedin.com/in/andrespds/)
+- GitHub: [https://github.com/tobproject](https://github.com/tobproject)
+- Instagram: [https://www.instagram.com/tob_project/](https://www.instagram.com/tob_project/)
 
