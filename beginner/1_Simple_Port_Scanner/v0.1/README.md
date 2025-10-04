@@ -5,8 +5,6 @@
 
 ---
 
-
-
 # Simple Port Scanner with GUI (PyQt5 / CustomTkinter)
 
 This project consists of a simple TCP port scanner with a graphical interface in **two versions**:
@@ -27,6 +25,47 @@ Implemented Features:
 - ✅ Cleared IP cache and previous results.
 - ✅ Separate tabs: **Scanner**, **Status**, and **About Developer**.
 - ✅ Custom icon (`tobproject.ico`).
+
+---
+
+## 📷 Screenshots
+
+> Place your screenshots in the repository under `assets/screenshots/` with the exact filenames below (or update the paths if you prefer a different folder). Recommended image size: **1200×800** (or a scaled PNG) — GitHub will auto-resize.
+
+### PyQt version
+<div align="center">
+
+| PyQt — Scanner tab | PyQt — Status & About |
+|---:|:---|
+| <img src="assets/screenshots/pyqt_scanner_1.png" alt="PyQt Scanner 1" width="420"/> | <img src="assets/screenshots/screenshot_1.png" alt="PyQt Status & About" width="420"/> |
+| *Figure 1 — PyQt: main scanner UI.* | *Figure 2 — PyQt: Status & About tabs (links open externally).* |
+
+| PyQt — Scanner tab | PyQt — Status & About |
+|---:|:---|
+| <img src="assets/screenshots/pyqt_scanner_1.png" alt="PyQt Scanner 1" width="420"/> | <img src="assets/screenshots/screenshot_2.png" alt="PyQt Status & About" width="420"/> |
+| *Figure 1 — PyQt: main scanner UI.* | *Figure 2 — PyQt: Status & About tabs (links open externally).* |
+
+</div>
+
+### CustomTkinter version
+<div align="center">
+
+| CTK — Scanner tab | CTK — Status & About |
+|---:|:---|
+| <img src="assets/screenshots/ctk_scanner_1.png" alt="CustomTkinter Scanner 1" width="420"/> | <img src="assets/screenshots/ctk_status_about_2.png" alt="CustomTkinter Status & About" width="420"/> |
+| *Figure 3 — CTK: main scanner UI.* | *Figure 4 — CTK: Status & About tabs (link buttons).* |
+
+</div>
+
+**How to capture & add screenshots**
+1. Run each script locally (`python scanner_PyQT.py` and `python scanner_CTK.py`).  
+2. Arrange the window to show the elements you want (Scanner tab, Status tab, About tab).  
+3. Capture the screen (Windows: `Win+Shift+S` or Snipping Tool; macOS: `Cmd+Shift+4`; Linux: `PrtScr` or `gnome-screenshot`) and save the file as the exact filenames below:
+   - `assets/screenshots/pyqt_scanner_1.png`
+   - `assets/screenshots/pyqt_status_about_2.png`
+   - `assets/screenshots/ctk_scanner_1.png`
+   - `assets/screenshots/ctk_status_about_2.png`
+4. Commit & push the `assets/screenshots/` folder together with this `README.md`. GitHub will render the images inline.
 
 ---
 
@@ -53,10 +92,10 @@ Implemented Features:
 - `nmap` installed on the system and accessible from `PATH`.
 
 - Python Libraries:
-- `PyQt5` (for the PQT version)
-- `customtkinter` (for the CTK version)
-- `requests` or `urllib` (already included in the standard library)
-- `ipaddress`
+  - `PyQt5` (for the PQT version)
+  - `customtkinter` (for the CTK version)
+  - `requests` or `urllib` (already included in the standard library)
+  - `ipaddress`
 
 Dependency Installation (example):
 ```bash
