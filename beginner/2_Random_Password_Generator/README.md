@@ -41,10 +41,10 @@ Implemented Features:
 ### CustomTkinter version
 <div align="center">
 
-| CTK — Generator tab | CTK — Status & About |
+| CTK — Generator tab | CTK — Copied to clipboard pop-up |
 |---:|:---|
-| <img src="assets/screenshots/CTK_pwgen_1.png" alt="CTK Generator" width="420"/> | <img src="assets/screenshots/CTK_pwgen_2.png" alt="CTK Status & About" width="420"/> |
-| *Figure 3 — CTK: main generator UI.* | *Figure 4 — CTK: Status log & About tabs (link buttons).* |
+| <img src="assets/screenshots/CTK_screenshot_1.png" alt="CTK Generator" width="420"/> | <img src="assets/screenshots/CTK_screenshot_2.png" alt="CTK copied to clipboard" width="420"/> |
+| *Figure 3 — CTK: main generator UI.* | *Figure 4 — CTK: Copied to clipboard pop-up.* |
 
 </div>
 
