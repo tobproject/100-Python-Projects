@@ -42,9 +42,9 @@ Implemented Features:
 
 <div align="center">
 
-| PyQt — Scanner tab | 
+| PyQt — About | 
 |---:|
-| <img src="assets/screenshots/screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> |
+| <img src="assets/screenshots/PyQt_about.png" alt="PyQt Scanner & Status Info" width="420"/> |
 
 
 
@@ -64,7 +64,15 @@ Implemented Features:
 
 </div>
 
+<div align="center">
 
+| CTK — About | 
+|---:|
+| <img src="assets/screenshots/CKT_about.png" alt="PyQt Scanner & Status Info" width="420"/> |
+
+
+
+</div>
 ---
 
 ## 📌 Visual Roadmap
