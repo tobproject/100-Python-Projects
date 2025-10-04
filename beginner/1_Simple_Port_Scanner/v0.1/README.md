@@ -30,7 +30,7 @@ Implemented Features:
 
 ## 📷 Screenshots
 
-> Place your screenshots in the repository under `assets/screenshots/` with the exact filenames below (or update the paths if you prefer a different folder). Recommended image size: **1200×800** (or a scaled PNG) — GitHub will auto-resize.
+
 
 ### PyQt version
 <div align="center">
