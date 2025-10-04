@@ -54,15 +54,6 @@ Implemented Features:
 
 </div>
 
-**How to capture & add screenshots**
-1. Run each script locally (`python scanner_PyQT.py` and `python scanner_CTK.py`).  
-2. Arrange the window to show the elements you want (Scanner tab, Status tab, About tab).  
-3. Capture the screen (Windows: `Win+Shift+S` or Snipping Tool; macOS: `Cmd+Shift+4`; Linux: `PrtScr` or `gnome-screenshot`) and save the file as the exact filenames below:
-   - `assets/screenshots/pyqt_scanner_1.png`
-   - `assets/screenshots/pyqt_status_about_2.png`
-   - `assets/screenshots/ctk_scanner_1.png`
-   - `assets/screenshots/ctk_status_about_2.png`
-4. Commit & push the `assets/screenshots/` folder together with this `README.md`. GitHub will render the images inline.
 
 ---
 
