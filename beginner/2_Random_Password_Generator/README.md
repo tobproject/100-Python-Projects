@@ -106,9 +106,4 @@ python CTK_random_password_generator.py
 
 ---
 
-## 🔗 Contact
-
-- LinkedIn: [https://www.linkedin.com/in/andrespds/](https://www.linkedin.com/in/andrespds/)
-- GitHub: [https://github.com/tobproject](https://github.com/tobproject)
-- Instagram: [https://www.instagram.com/tob_project/](https://www.instagram.com/tob_project/)
 
