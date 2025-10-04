@@ -7,7 +7,7 @@
 
 
 
-# Port Scanner with GUI (PyQt5 / CustomTkinter)
+# Simple Port Scanner with GUI (PyQt5 / CustomTkinter)
 
 This project consists of a simple TCP port scanner with a graphical interface in **two versions**:
 
