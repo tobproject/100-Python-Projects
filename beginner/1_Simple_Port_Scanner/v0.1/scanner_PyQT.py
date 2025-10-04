@@ -1,5 +1,5 @@
 # scanner_PQT.py
-# Asegúrate de tener 'tobproject.ico' en el mismo directorio que este script.
+
 
 import sys
 import os
