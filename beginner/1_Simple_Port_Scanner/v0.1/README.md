@@ -35,7 +35,7 @@ Implemented Features:
 ### PyQt version
 <div align="center">
 
-| PyQt — Scanner tab | PyQt — Status Info |
+| PyQt — Scanner Info | PyQt — Status Tab |
 |---:|:---|
 | <img src="assets/screenshots/screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> | <img src="assets/screenshots/screenshot_2.png" alt="PyQt Scanner & Status Info" width="420"/> |
 | *Figure 1 — PyQt: main scanner UI.* | *Figure 2 — PyQt: Status & About tabs (links open externally).* |
