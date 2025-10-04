@@ -37,7 +37,7 @@ Implemented Features:
 
 | PyQt — Status Info | PyQt — Scanner Info |
 |---:|:---|
-| <img src="assets/screenshots/screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> | <img src="assets/screenshots/screenshot_2.png" alt="PyQt Scanner & Status Info" width="420"/> |
+| <img src="assets/screenshots/PyQt_screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> | <img src="assets/screenshots/PyQt_screenshot_2.png" alt="PyQt Scanner & Status Info" width="420"/> |
 | *Figure 1 — PyQt: Status info tabs* | *Figure 2 — PyQt: Scanner status GUI* |
 
 
@@ -49,7 +49,7 @@ Implemented Features:
 
 | CTK — Scanner tab | CTK — Status & About |
 |---:|:---|
-| <img src="assets/screenshots/ctk_scanner_1.png" alt="CustomTkinter Scanner 1" width="420"/> | <img src="assets/screenshots/ctk_status_about_2.png" alt="CustomTkinter Status & About" width="420"/> |
+| <img src="assets/screenshots/CKT_screenshot_1.png" alt="CKT Scanner & Status Info" width="420"/> | <img src="assets/screenshots/CKT_screenshot_2.png" alt="CKT Scanner & Status Info" width="420"/> |
 | *Figure 3 — CTK: main scanner UI.* | *Figure 4 — CTK: Status & About tabs (link buttons).* |
 
 </div>
