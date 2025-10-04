@@ -43,7 +43,7 @@ Implemented Features:
 
 | CTK — Generator tab | CTK — Copied to clipboard pop-up |
 |---:|:---|
-| <img src="assets/screenshots/CTK_screenshot_1.png" alt="CTK Generator" width="420"/> | <img src="assets/screenshots/CTK_screenshot_2.png" alt="CTK copied to clipboard" width="420"/> |
+| <img src="assets/screenshots/CTK_screenshot1.png" alt="CTK Generator" width="420"/> | <img src="assets/screenshots/CTK_screenshot2.png" alt="CTK copied to clipboard" width="420"/> |
 | *Figure 3 — CTK: main generator UI.* | *Figure 4 — CTK: Copied to clipboard pop-up.* |
 
 </div>
