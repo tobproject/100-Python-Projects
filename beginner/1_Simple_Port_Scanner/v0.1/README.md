@@ -40,6 +40,16 @@ Implemented Features:
 | <img src="assets/screenshots/PyQt_screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> | <img src="assets/screenshots/PyQt_screenshot_2.png" alt="PyQt Scanner & Status Info" width="420"/> |
 | *Figure 1 — PyQt: Status info tabs* | *Figure 2 — PyQt: Scanner status GUI* |
 
+<div align="center">
+
+| PyQt — Scanner tab | 
+|---:|
+| <img src="assets/screenshots/screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> |
+
+
+
+</div>
+
 
 
 </div>
