@@ -5,9 +5,6 @@
 
 
 ---
-
-
-
 # 🔑 Random Password Generator
 
 A simple and secure **Python-based password generator** that allows users to create strong, random passwords with customizable options such as length and character types.
