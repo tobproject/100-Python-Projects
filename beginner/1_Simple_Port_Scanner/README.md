@@ -11,7 +11,7 @@
 
 This project consists of a simple TCP port scanner with a graphical interface in **two versions**:
 
-- **scanner_PQT.py** → version with PyQt5
+- **scanner_PyQT.py** → version with PyQt5
 - **scanner_CTK.py** → version with CustomTkinter
 
 ---
