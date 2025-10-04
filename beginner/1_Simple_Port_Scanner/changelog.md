@@ -1,3 +1,13 @@
+## Feel free to contact me through the following profiles:
+
+ ## [Linkedin](https://www.linkedin.com/in/andrespds/) | [GitHub](https://github.com/tobproject) | [Instagram](https://www.instagram.com/tob_project/)
+
+
+---
+
+
+
+
 # 📑 CHANGELOG
 
 All versions and relevant changes to the **Port Scanner with GUI** project.
@@ -37,4 +47,5 @@ All versions and relevant changes to the **Port Scanner with GUI** project.
 ## 📌 Notes
 - This project is in **Beta** phase, created for **educational and demonstration purposes**. - The code is available in two GUI versions:
 - `scanner_PQT.py` → based on **PyQt5**
+
 - `scanner_CTK.py` → based on **CustomTkinter**
