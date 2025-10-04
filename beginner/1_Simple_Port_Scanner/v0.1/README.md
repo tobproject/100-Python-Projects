@@ -38,7 +38,7 @@ Implemented Features:
 | PyQt — Status Info | PyQt — Scanner Info |
 |---:|:---|
 | <img src="assets/screenshots/screenshot_1.png" alt="PyQt Scanner & Status Info" width="420"/> | <img src="assets/screenshots/screenshot_2.png" alt="PyQt Scanner & Status Info" width="420"/> |
-| *Figure 1 — PyQt: main scanner UI.* | *Figure 2 — PyQt: Status & About tabs (links open externally).* |
+| *Figure 1 — PyQt: Status info tabs* | *Figure 2 — PyQt: Scanner status GUI* |
 
 
 
